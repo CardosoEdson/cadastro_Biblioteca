@@ -1,0 +1,7 @@
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Sistema_de_gestao_de_biblioteca\Sistema_de_gestao_de_biblioteca\bin\Debug\Sistema_de_gestao_de_biblioteca.exe.config
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Sistema_de_gestao_de_biblioteca\Sistema_de_gestao_de_biblioteca\bin\Debug\Sistema_de_gestao_de_biblioteca.exe
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Sistema_de_gestao_de_biblioteca\Sistema_de_gestao_de_biblioteca\bin\Debug\Sistema_de_gestao_de_biblioteca.pdb
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Sistema_de_gestao_de_biblioteca\Sistema_de_gestao_de_biblioteca\obj\Debug\Sistema_de_gestao_de_biblioteca.csproj.AssemblyReference.cache
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Sistema_de_gestao_de_biblioteca\Sistema_de_gestao_de_biblioteca\obj\Debug\Sistema_de_gestao_de_biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Sistema_de_gestao_de_biblioteca\Sistema_de_gestao_de_biblioteca\obj\Debug\Sistema_de_gestao_de_biblioteca.exe
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Sistema_de_gestao_de_biblioteca\Sistema_de_gestao_de_biblioteca\obj\Debug\Sistema_de_gestao_de_biblioteca.pdb
